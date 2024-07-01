@@ -1,0 +1,34 @@
+{
+  "name": "speed-vallet",
+  "version": "1.0.0",
+  "description": "Vallet Module for Fast Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/egehan0250/speed-vallet.git"
+  },
+  "keywords": [
+    "speed-vallet",
+    "vallet",
+    "speed",
+    "integration",
+    "entegrasyon",
+    "hızlı",
+    "payment"
+  ],
+  "author": "egehan0250",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egehan0250/speed-vallet/issues"
+  },
+  "homepage": "https://github.com/egehan0250/speed-vallet#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "buffer": "^6.0.3",
+    "crypto": "^1.0.1",
+    "form-data": "^4.0.0"
+  }
+}
